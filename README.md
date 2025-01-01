@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kerikxi
 - 👀 I’m interested in game development, web tools, AI
-- 🌱 I’m currently learning Python, C#, Unity
+- 🌱 I’m currently learning Python, HTML/CSS, GDScript
 - 😄 Pronouns: he/him
 
 <!---
